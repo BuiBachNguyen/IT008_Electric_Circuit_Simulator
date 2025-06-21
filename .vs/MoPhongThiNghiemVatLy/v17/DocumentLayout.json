@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\volmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\volmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\maincircuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\maincircuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\circuitdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\circuitdiagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|d:\\__hk1_2024-2025\\_laptrinhtrucquan\\version_1.0.2\\mophongthinghiemvatly\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\menustrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\backupcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\backupcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\toolbarbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\toolbarbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\resistor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\core\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\core\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\mophongthinghiemvatly\\indexforshowresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}|MoPhongThiNghiemVatLy\\MoPhongThiNghiemVatLy.csproj|solutionrelative:mophongthinghiemvatly\\indexforshowresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Drawing.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Drawing.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Drawing.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Drawing.cs",
+              "ViewState": "AgIAAA8HAAAAAAAAAAAuwCEHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T19:47:50.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CircuitDiagram.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\CircuitDiagram.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\CircuitDiagram.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\CircuitDiagram.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\CircuitDiagram.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:35:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\MainWindow.xaml",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\MainWindow.xaml",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T18:23:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Node.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\Node.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Node.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:41:55.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Light.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Light.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\Light.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Light.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\Light.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:40:24.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackUpCore.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\BackUpCore.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\BackUpCore.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\BackUpCore.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\BackUpCore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:00:35.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Volmeter.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Volmeter.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\Volmeter.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Volmeter.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\Volmeter.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:00:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainCircuit.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\MainCircuit.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\MainCircuit.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\MainCircuit.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\MainCircuit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:00:23.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToolbarButton.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\ToolbarButton.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\ToolbarButton.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\ToolbarButton.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\ToolbarButton.cs",
+              "ViewState": "AgIAANwBAAAAAAAAAAAAwPYBAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T15:48:25.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuStrip.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\MenuStrip.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\MenuStrip.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\MenuStrip.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\MenuStrip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T12:32:39.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Switch.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\Switch.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Switch.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\Switch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:00:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Resistor.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Resistor.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\Core\\Resistor.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\Core\\Resistor.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\Core\\Resistor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T17:00:28.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IndexForShowResult.cs",
+              "DocumentMoniker": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\IndexForShowResult.cs",
+              "RelativeDocumentMoniker": "MoPhongThiNghiemVatLy\\IndexForShowResult.cs",
+              "ToolTip": "D:\\__HK1_2024-2025\\_LapTrinhTrucQuan\\Version_1.0.2\\MoPhongThiNghiemVatLy\\IndexForShowResult.cs",
+              "RelativeToolTip": "MoPhongThiNghiemVatLy\\IndexForShowResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:52:47.738Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

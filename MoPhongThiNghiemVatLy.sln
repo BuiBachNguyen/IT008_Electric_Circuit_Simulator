@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoPhongThiNghiemVatLy", "MoPhongThiNghiemVatLy\MoPhongThiNghiemVatLy.csproj", "{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Electrical_Circuit_Simulation_Setup", "Electrical_Circuit_Simulation_Setup\Electrical_Circuit_Simulation_Setup.vdproj", "{D31F5F7E-FC6E-4A3C-A262-C1B20773905A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05DBA53-E68C-4C0C-9575-CCCDBBAA86B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31F5F7E-FC6E-4A3C-A262-C1B20773905A}.Debug|Any CPU.ActiveCfg = Debug
+		{D31F5F7E-FC6E-4A3C-A262-C1B20773905A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5054FE3-F7E2-4F01-8263-16327E5A6114}
+	EndGlobalSection
+EndGlobal

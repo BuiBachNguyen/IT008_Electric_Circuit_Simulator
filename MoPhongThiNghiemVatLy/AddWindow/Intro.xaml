@@ -1,0 +1,23 @@
+﻿<Window x:Class="MoPhongThiNghiemVatLy.AddWindow.Intro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoPhongThiNghiemVatLy.AddWindow"
+        mc:Ignorable="d"
+        Title="Intro" Height="450" Width="800" WindowStartupLocation="CenterScreen"
+WindowStyle="None" ResizeMode="NoResize" Background="#FFF" 
+        Icon = "Images/IconOfApp.png">
+    <Grid>
+        <!-- Image logo hoặc hiệu ứng -->
+        <Image x:Name="GifImage" HorizontalAlignment="Center" VerticalAlignment="Top" 
+           Width="850" Height="400" Stretch="UniformToFill"/>
+
+        <!-- Text hoặc thông tin giới thiệu -->
+
+        <TextBlock x:Name="LoadingText" HorizontalAlignment="Right" VerticalAlignment="Bottom" 
+           FontWeight="Bold" FontSize="24" Foreground="Black" Margin="0,0,20,12" 
+           FontFamily="Arial" Text="Loading to Electrical Circuit Simulation">
+        </TextBlock>
+    </Grid>
+</Window>

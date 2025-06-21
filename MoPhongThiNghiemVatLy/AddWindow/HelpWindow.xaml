@@ -1,0 +1,83 @@
+﻿<Window x:Class="MoPhongThiNghiemVatLy.AddWindow.HelpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoPhongThiNghiemVatLy.AddWindow"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        BorderBrush="#d1d9e6"
+        BorderThickness="5"
+        WindowStyle="None"
+        Title="HelpWindow"
+        Height="400"
+        Width="750"
+        Icon = "Images/IconOfApp.png">
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0"
+                             EndPoint="1,0">
+            <GradientStop Color="#D7B9FF"
+                          Offset="0" />
+            <GradientStop Color="#C2E8FF"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <!-- Tiêu đề phần Help -->
+        <TextBlock FontSize="20"
+                   FontWeight="Bold"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Top"
+                   Margin="10">
+            Help - User Guide
+        </TextBlock>
+
+        <!-- ScrollViewer để hiển thị nội dung dài của Help -->
+        <ScrollViewer VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto"
+                      Margin="10,60,10,80">
+            <TextBlock TextWrapping="Wrap"
+                       MaxWidth="760" FontSize="13">
+                <Run FontWeight="Bold" FontSize="15">ĐÂY LÀ PHẦN HELP CỦA ỨNG DỤNG, MỘT SỐ THÔNG TIN HƯỚNG DẪN SẼ CÓ TẠI ĐÂY!</Run><LineBreak />
+                1. Những chức năng chính của ứng dụng:<LineBreak />
+                - Vẽ mạch điện<LineBreak />
+                - Mô phỏng quá trình electron chạy và đèn sáng<LineBreak />
+                - Tính toán mạch điện<LineBreak />
+                - Xuất hình ảnh mạch điện<LineBreak /><LineBreak />
+                2. Cách sử dụng<LineBreak />
+                - Truy cập những thành phần trong ToolBar để thêm các phần tử từ trái sang phải.<LineBreak />
+                - Truy cập Xóa trên Toolbar, chọn thành phần và chỉ số thành phần đó khi muốn xóa phần tử khỏi mạch.<LineBreak />
+                - Truy cập Calculate trên Toolbar để tính toán các thành phần trong mạch.<LineBreak />
+                ... và các chức năng khác <LineBreak />
+                LƯU Ý: Bạn cần tuân thủ một số yêu cầu của ứng dụng để không phát sinh lỗi.<LineBreak /><LineBreak />
+                3. Thông tin liên lạc<LineBreak />
+                Nếu bạn có thắc mắc gì, xin liên hệ với chúng tôi qua facebook: 
+                <Hyperlink NavigateUri="https://www.facebook.com/profile.php?id=100062543025824"
+                           RequestNavigate="Hyperlink_RequestNavigate">
+                Bách Nguyên
+            </Hyperlink> <LineBreak />
+            Hoặc xem video hướng dẫn sử dụng sau:
+                    <Hyperlink NavigateUri="https://youtu.be/trLv04DJvjI"
+                               RequestNavigate="Hyperlink_RequestNavigate">
+                        Hướng dẫn sử dụng ứng dụng Electrical Circuit Model Simualation
+                    </Hyperlink> <LineBreak />
+
+            </TextBlock>
+        </ScrollViewer>
+
+        <!-- Nút đóng cửa sổ Help -->
+        <Button Content="Close"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Bottom"
+                Margin="10"
+                Height="30"
+                Width="100"
+                Background="#6c757d"
+                Foreground="White"
+                BorderBrush="Transparent"
+                FontWeight="Bold"
+                Click="CloseButton_Click" />
+    </Grid>
+</Window>
